@@ -5,7 +5,8 @@ This repository contains my basic C programming practice program as I build a st
 Practice questions on Arrays.
 
 ## Programs
-1. 
+1. Largest element in array
+2. Smallest element in array
 
 
 ## How to Compile 
