@@ -7,6 +7,11 @@ Practice questions on Arrays.
 ## Programs
 1. Largest element in array
 2. Smallest element in array
+3. Sum of array
+4. Average of array
+5. Reverse of array
+6. Linear Search (first occurrence)
+7. Linear Search (all occurrence)
 
 
 ## How to Compile 
