@@ -12,6 +12,9 @@ Practice questions on Arrays.
 5. Reverse of array
 6. Linear Search (first occurrence)
 7. Linear Search (all occurrence)
+8. Binary Search
+9. Merge two array
+10. Addition of two matrix
 
 
 ## How to Compile 
@@ -22,5 +25,5 @@ gcc filename.c -o filename '''
 '''bash
 .\filename '''
 
-## Purpose
+## Purpo
 This repository documents my C programming learning journey and helps me to strengthen my programming fundamentals.
